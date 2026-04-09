@@ -95,5 +95,8 @@ This project is open source and available under the [MIT License](LICENSE).
 - Portfolio: [Thanuja.dev](https://danetithanuja4-web.github.io/Elevate-Task-1/)
 
 ---
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/211fee52-dd87-49fd-908b-9eb77de8208a" />
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/07b508dd-73c2-43d4-86b9-728e2abcc0d1" />
+
 
 ⭐ If you found this project helpful, please give it a star!
